@@ -3,11 +3,11 @@ layout: default
 ---
 
 ## Qu'est ce qu'abripiaf ?
-Abripiaf récupère des palettes pour les transformer en abris pour les petits mammifères et pour les oiseaux.
+Abripiaf a un double objectif : recycler des déchets bois (planche/palettes) en les transformant en abris pour oiseaux (passereaux,rapaces...) et petits mammifères (hérisson, écureuil...).
 
 ![](explication.png)
 
-Abripiaf n'a pas de but lucratif et ne vend ni ses nichoirs, ni les chutes de palettes.
+_Abripiaf n'a pas de but lucratif , ne (re)vend et n'achète rien_.
 
 
 ## Quelles sont les réalisations ?
